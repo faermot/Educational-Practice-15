@@ -8,3 +8,4 @@ _([арбуз](https://imgproxy-frontend-presets.prod.cdn.gazprombonus.ru/unsafe
 ![image](https://github.com/user-attachments/assets/c5f679cb-319a-4209-86c9-1a9d3c386b28)
 
 ![image](https://github.com/user-attachments/assets/65114c6c-d2fb-4d54-8ba3-d3e1018d73c8)
+
